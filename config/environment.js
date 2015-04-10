@@ -5,7 +5,7 @@ module.exports = function(environment) {
     modulePrefix: 'ember-firebase-awesomeness',
     environment: environment,
     contentSecurityPolicy: { 'connect-src': "'self' wss://*.firebaseio.com" },
-    firebase: 'https://YOUR-FIREBASE-NAME.firebaseio.com/',
+    firebase: 'https://blinding-fire-1779.firebaseio.com/',
     baseURL: '/',
     locationType: 'auto',
     EmberENV: {
